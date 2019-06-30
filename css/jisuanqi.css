@@ -1,0 +1,72 @@
+#wenben {
+				width: 345px;
+				height: 40px;
+				border: 1px #535252 solid;
+				text-align: right;
+				font-size: 30px;
+				margin-top: 5px;
+				margin-left: 6px;
+				border-radius: 10px;
+				background: #93bb89;
+			}
+			
+			#biaoge {
+				width: 350px;
+				line-height: 70px;
+				text-align: center;
+				margin-top: 15px;
+				margin-left: 8px;
+			}
+			
+			td {
+				width: 50px;
+			}
+			
+			td:hover {
+				background-color: #e6e3e3;
+				cursor: pointer;
+				border-radius: 50px;
+			}
+			
+			button {
+				width: 50px;
+				height: 50px;
+				border-radius: 50px;
+				background: ghostwhite;
+			}
+			
+			#wai {
+				width: 380px;
+				height: 520px;
+				border: 2px #6e6e6e solid;
+				border-radius: 10px;
+				margin-left: 35%;
+				background: url(img/cc.jpg);
+			}
+			
+			#bw {
+				width: 360px;
+				height: 55px;
+				margin-top: 10px;
+				margin-left: 10px;
+				border-radius: 15px;
+				background: #535252;
+			}
+			
+			#zi {
+				font-family: 楷体;
+				font-size: 40px;
+				margin-left: 30px;
+				margin-top: 20px;
+			}
+			
+			#sj {
+				width: 190px;
+				height: 25px;
+				line-height: 25px;
+				border: 2px #535252 solid;
+				margin-left: 180px;
+				background: #c1c3c2;
+				margin-top: -20px;
+				border-radius: 10px;
+			}
